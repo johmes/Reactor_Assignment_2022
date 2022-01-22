@@ -11,7 +11,6 @@ Clicking players names you can inspect their statistics. Player profile shows th
 
 # Required dependencies
 This application uses following dependencies. The link will redirect you to the documentation and installing guide.
-    - react-dom [https://reactjs.org/docs/react-dom.html]
     - react-router-dom [https://reactrouter.com/docs/en/v6/getting-started/installation]
     - react-use-websocket [https://github.com/robtaussig/react-use-websocket]
     - axios [https://github.com/axios/axios]
